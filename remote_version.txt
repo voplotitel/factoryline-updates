@@ -1,0 +1,2 @@
+0.00001
+https://github.com/voplotitel/factoryline-updates/releases/download/v0.00001/factoryline_v0.00001.zip
